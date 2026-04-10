@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TrabalhoArvore/ArvRubroNegra/ArvRubroNegra.iml" filepath="$PROJECT_DIR$/TrabalhoArvore/ArvRubroNegra/ArvRubroNegra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrabalhoArvore/ArvoreAVL/ArvoreAVL.iml" filepath="$PROJECT_DIR$/TrabalhoArvore/ArvoreAVL/ArvoreAVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartDoisBuscas/PartDoisBuscas.iml" filepath="$PROJECT_DIR$/PartDoisBuscas/PartDoisBuscas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartTres/PartTres.iml" filepath="$PROJECT_DIR$/PartTres/PartTres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrabalhoArvore/TrabalhoArvore.iml" filepath="$PROJECT_DIR$/TrabalhoArvore/TrabalhoArvore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrabalhoEstruturaDeDados.iml" filepath="$PROJECT_DIR$/.idea/TrabalhoEstruturaDeDados.iml" />
+    </modules>
+  </component>
+</project>
